@@ -1,0 +1,11 @@
+10
+baa	bbaabba
+baa	aaabbbba
+aabb	abceaaabb
+aabb	abaabcea
+abcd	cdabbbab
+abcd	cabbbbab
+abcde	bcdedbda
+acc	bdedbcda
+cde	cdcdcdec
+cced	cdccdcce
